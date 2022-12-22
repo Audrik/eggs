@@ -105,6 +105,8 @@ This is a collection of servers that use SteamCMD to install.
 
 [Mordhau](mordhau)
 
+[Night_Of_The_Dead] (night_of_the_dead)
+
 ## Onset
 
 [Onset](onset)
