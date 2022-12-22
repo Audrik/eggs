@@ -107,7 +107,7 @@ This is a collection of servers that use SteamCMD to install.
 
 ## Night Of The Dead
 
-[[Night_Of_The_Dead] (night_of_the_dead)](https://github.com/Audrik/eggs/tree/master/game_eggs/steamcmd_servers/Night_of_the_dead)
+(https://github.com/Audrik/eggs/tree/master/game_eggs/steamcmd_servers/Night_of_the_dead)
 
 ## Onset
 
